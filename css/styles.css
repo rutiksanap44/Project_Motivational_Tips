@@ -1,0 +1,15 @@
+img{
+    height: 200px;
+    width: 200px;
+    margin: 2px 5px;
+}
+.qoutes{
+    display:flex;
+}
+dt{
+    font-size: larger;
+    margin: 8px 0px;
+}
+dd{
+    font-size: large;
+}
